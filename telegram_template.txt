@@ -1,0 +1,5 @@
+Olá {}
+No dia *{}* está marcado para levar:
+Item: *{}*
+Quantidade: *{}*
+Valor: *{}*

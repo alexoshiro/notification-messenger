@@ -1,0 +1,40 @@
+google:
+  sheet_name: Café da Manhã
+#Monday = 0, Tuesday = 1, Wednesday = 2, Thursday = 3, Friday = 4, Saturday = 5, Sunday = 6
+itens:
+  fruits:
+    text: Frutas
+    weekday: 0
+    quantity:
+      row: 3
+      col: 2
+    value:
+      row: 3
+      col: 3
+  breads:
+    text: Pães
+    weekday: 4
+    quantity:
+      row: 3
+      col: 6
+    value:
+      row: 3
+      col: 7
+  ham:
+    text: Presunto e Mussarela
+    weekday: 4
+    quantity:
+      row: 3
+      col: 8
+    value:
+      row: 3
+      col: 9
+  cake:
+    text: Bolo/Outros
+    weekday: 4
+    quantity:
+      row: 3
+      col: 10
+    value:
+      row: 3
+      col: 11
